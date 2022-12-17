@@ -2,7 +2,7 @@
 Artifacts related to the CIKM 2021 paper "Region Invariant Normalizing Flows for Mobility Transfer".
 
 ## Requirements
-Use a python-3.7 environment and install Tensorflow v1.13.1 and Tensorflow-Probability v0.6.0.
+Use a python-3.7 environment and install Tensorflow v1.13.1 and Tensorflow-Probability v0.6.0. More details are given in requirements.txt file.
 
 ## Execution Instructions
 ### Dataset Format
